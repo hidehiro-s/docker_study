@@ -1,7 +1,6 @@
 # 概要
 
-Dockerをインストールして学習。
-
+Dockerをインストールして学習。  
 YouTubeをみながら動画通りに作成。
 
 Dockerを起動し、Rubyで自端末にhelloと出力するもの。
@@ -15,7 +14,7 @@ $ mkdir docker
 
 $ cd docker
 
-　　　　main.rbとdockerfileを作成。
+main.rbとdockerfileを作成。
     
 $ docker run hello-world
 
